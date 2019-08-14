@@ -1,3 +1,6 @@
+*.pickle
+*.JPG
+*NoGit*
 *.csv
 .DS*
 .*_checkpoints
